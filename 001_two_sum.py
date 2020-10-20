@@ -15,7 +15,7 @@ class Solution(object):
         """
         :type nums: List[int]
         :type target: int
-        :rtype two_indices: List[int]
+        :rtype: List[int]
         """
         for i in range(len(nums)):
             num1 = nums[i]
